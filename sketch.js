@@ -84,7 +84,7 @@ function draw() {
     arrow.display()
     arrow.shoot(playerArcher.body.angle);
    }
-}
+}  
 
 
 
